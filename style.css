@@ -1,0 +1,111 @@
+.site{
+    font-family: 'Roboto', sans-serif;
+    background-image: url("media/bg123.png");
+    background-size: contain;
+    background-color: #96313b4d;
+    padding-left: 11%;
+    padding-right: 11%;
+    padding-bottom: 2%;
+}
+
+.body{
+    background-color: #ffffff70;
+}
+
+.header {
+    padding-bottom: 3.8%;
+    padding-top: 3.8%;
+    width: 100%;
+    font-weight: bold;
+}
+
+.content {
+    background-color: #ffffffce;
+    box-shadow: #96313b;
+    border-width: 2%;
+    border-color: rgba(255, 255, 255, 0.856);
+    padding-left:5%;
+    padding-right:5%;
+    padding-top: .1%;
+    padding-bottom: 2%;
+}
+
+.sub-content{
+    padding: 16px;
+}
+
+.inner-content{
+    margin: 0 auto;
+}
+
+.content-left{
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+}
+
+.content-right{
+    flex:1;
+}
+
+.imgstyle{
+    flex:1;
+    text-align: end;
+}
+
+.textcenter{
+    text-align: center;
+    padding-top: 1.4%;
+    font-size: 32px;
+}
+
+.subtextcenter{
+    text-align: center;
+    padding-top: 2px;
+}
+
+.surveyLink{
+    padding-top: 1%;
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;     
+}
+
+.info{
+    color: rgb(128, 0, 0);
+    font-weight: bold;
+    text-align: justify;
+}
+
+.elli{
+    font-size: 25px;
+}
+
+.footer{
+    text-align: center;
+    width:100%;
+    padding-top: .1%;
+    padding-bottom: .01%;
+    background-color: #ffffff80;
+}
+
+.footerText{
+    display: block;
+    color: rgba(0, 0, 0, 0.76);
+    text-decoration: none;
+    font-size: 23px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.Image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-image: url("media/logo1.png");
+    align-content: center;
+    background-repeat: no-repeat;
+    padding: 5% 2%;
+    background-size:contain ;
+}
