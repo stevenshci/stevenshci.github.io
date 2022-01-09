@@ -1,6 +1,6 @@
 .site{
     font-family: 'Roboto', sans-serif;
-    background-image: url("media/bg123.png");
+    background-image: url("../media/bg123.png");
     background-size: contain;
     background-color: #96313b4d;
     padding-left: 11%;
@@ -103,7 +103,7 @@
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    background-image: url("media/logo1.png");
+    background-image: url("../media/logo1.png");
     align-content: center;
     background-repeat: no-repeat;
     padding: 5% 2%;
